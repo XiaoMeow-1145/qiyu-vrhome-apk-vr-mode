@@ -1,6 +1,6 @@
 # Qiyu VRHome APK VR Mode
 
-## Rule [中文](SKILL_zh.md)
+## Rule
 
 Produce a patched APK file. Do not require adb, a connected headset, `adb install`, `am start`, logcat, screenshots, or on-device validation unless the user explicitly asks for device testing.
 
