@@ -1,9 +1,4 @@
----
-name: qiyu-vrhome-apk-vr-mode
-description: 通过在应用级别添加qiyu-sdk-flag=true元数据来修补Android APK，使奇遇VRHome / VR700风格的启动器将它们识别为VR应用，然后重建、对齐和签名生成的APK。当用户要求将APK添加到奇遇VRHome、qiyuvrhome、奇遇/VR700主界面、"VR模式启动"、"VR模式启动"、"使此APK显示/作为VR启动"、"避免窗口化启动"，或者要求离线APK补丁而不需要adb或连接头显时使用。
----
-
-# 奇遇 VRHome APK VR 模式
+# 奇遇VR Home APK VR 模式
 
 ## 规则
 
