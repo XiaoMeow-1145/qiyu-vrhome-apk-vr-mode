@@ -23,7 +23,7 @@
 
 ## 可选的旧版类别
 
-为了与高通/SXR风格的启动模式兼容，脚本还可以将此类别添加到应用程序的`MAIN + LAUNCHER`活动：
+为了与高通/XR风格的启动模式兼容，脚本还可以将此类别添加到应用程序的`MAIN + LAUNCHER`活动：
 
 ```xml
 <category android:name="com.qti.intent.category.SNAPDRAGON_VR" />
